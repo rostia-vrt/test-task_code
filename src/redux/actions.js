@@ -1,0 +1,4 @@
+export const GET_ANNOUNCEMENT = "GET_ANNOUNCEMENT";
+export const GET_EDIT_POST = "GET_EDIT_POST";
+export const GET_UPDATE_POST = "GET_UPDATE_POST";
+export const REMOVE_POST = "REMOVE_POST";
